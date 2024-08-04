@@ -1,5 +1,4 @@
-# edgefoundrydevcontainer
-DEM DevContainer Egde Foundry
+# DEM DevContainer Egde Foundry
 
 This repository contains the docker compose files for EdgeX releases. 
 
