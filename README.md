@@ -1,6 +1,8 @@
-# DEM DevContainer Egde Foundry
+# DEM DevContainer EgdeX Foundry - https://www.edgexfoundry.org/
 
 This repository contains the docker compose files for EdgeX releases. 
+
+see https://github.com/edgexfoundry/edgex-compose
 
 > **Note:** Each release is now on it's own branch named after the release codename. You can view all branches [here](https://github.com/edgexfoundry/edgex-compose/branches/all).
 
