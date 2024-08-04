@@ -21,7 +21,10 @@
         "ms-vscode-remote.remote-containers",
         "ms-vscode.makefile-tools",
         "dbaeumer.vscode-eslint",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "ms-vscode.azurecli",
+        "GitHub.vscode-pull-request-github",
+        "eamodio.gitlens"
       ],
       "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
