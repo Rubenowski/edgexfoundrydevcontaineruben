@@ -2,5 +2,5 @@
     "debug.node.autoAttach": "disabled",
     "github-enterprise.uri": "https://github.com/techloopsrl",
     "remote.SSH.connectTimeout": 60,
-    "remote.SSH.useLocalServer": true,
+    "remote.SSH.useLocalServer": false,
 }
